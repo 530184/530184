@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @530184
 - 👀 I’m interested in .NET development, C#, C++, C, real-time systems, and control system engineering.
-- 🌱 I’m currently learning Teensy and Teensyduino, and the Nextion HMI.
+- 🌱 I’m currently learning Teensy, Teensyduino, and the Nextion HMI.
 - 📫 How to reach me: rjumons at outlook dot com
 
 <!---
